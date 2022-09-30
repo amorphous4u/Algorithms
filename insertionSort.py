@@ -11,4 +11,4 @@ def insertionSort(nums):
         nums[j+1] = curr
     return nums
 
-print(insertionSort(nums = [3,4,1,6,8,11,2,9,1]))
+# print(insertionSort(nums = [3,4,1,6,8,11,2,9,1]))

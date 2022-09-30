@@ -43,4 +43,4 @@ def mergeSort(arr):
 
 
 
-print(mergeSort([3,4,6,22,8,1,2,9,1]))
+# print(mergeSort([3,4,6,22,8,1,2,9,1]))
