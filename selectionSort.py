@@ -13,4 +13,4 @@ def selectionSort(nums):
 
     return nums
 
-print(selectionSort(nums = [3,4,6,8,1,2,9,1]))
+# print(selectionSort(nums = [3,4,6,8,1,2,9,1]))

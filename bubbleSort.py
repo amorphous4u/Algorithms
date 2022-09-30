@@ -8,4 +8,4 @@ def bubbleSort(nums):
                 nums[m-1],nums[m] = nums[m], nums[m-1]
     return nums
 
-print(bubbleSort(nums = [3,4,1,6,8,11,2,9,1]))
+# print(bubbleSort(nums = [3,4,1,6,8,11,2,9,1]))
